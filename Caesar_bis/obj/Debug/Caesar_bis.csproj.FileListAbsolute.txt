@@ -1,0 +1,6 @@
+D:\Users\Andre\RiderProjects\Caesar_bis\Caesar_bis\bin\Debug\Caesar_bis.exe
+D:\Users\Andre\RiderProjects\Caesar_bis\Caesar_bis\bin\Debug\Caesar_bis.pdb
+D:\Users\Andre\RiderProjects\Caesar_bis\Caesar_bis\obj\Debug\Caesar_bis.csproj.AssemblyReference.cache
+D:\Users\Andre\RiderProjects\Caesar_bis\Caesar_bis\obj\Debug\Caesar_bis.csproj.CoreCompileInputs.cache
+D:\Users\Andre\RiderProjects\Caesar_bis\Caesar_bis\obj\Debug\Caesar_bis.exe
+D:\Users\Andre\RiderProjects\Caesar_bis\Caesar_bis\obj\Debug\Caesar_bis.pdb
